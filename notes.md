@@ -1,6 +1,7 @@
 # Reference
 
 * easy and fast regex course: https://regexone.com/lesson/character_ranges?
+* create md document with sql embeded: https://www.evidence.dev/
 
 ## python
 * accelerate python functions: https://numba.pydata.org/
