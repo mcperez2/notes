@@ -18,3 +18,7 @@
 ## websites
 
 * data driven war technology: https://www.palantir.com/palantir-gotham/21-launch/#
+
+## art
+
+* js art package: https://p5js.org/examples/
