@@ -22,3 +22,5 @@
 ## art
 
 * js art package: https://p5js.org/examples/
+* python widgets: https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6
+* python widgets 2: https://voila-gallery.org/
