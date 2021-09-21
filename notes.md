@@ -24,3 +24,8 @@
 * js art package: https://p5js.org/examples/
 * python widgets: https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6
 * python widgets 2: https://voila-gallery.org/
+* python package to stl: https://github.com/asahidari/surf2stl-python
+* python script to harmonograph: https://prettymathpics.com/multi-pendulum-harmonograph-simulator-using-numpy-and-matplotlib/
+* MiDAS tutorial: https://www.youtube.com/watch?v=a_7GRsR4o_I
+* MiDAS reference: https://twitter.com/dmvrg/status/1408659572747685896
+* MiDAS package: https://pytorch.org/hub/intelisl_midas_v2/
