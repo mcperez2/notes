@@ -14,6 +14,7 @@
 * https://datavizcatalogue.com/ES/
 * http://d3plus.org/examples/
 * course of D3: https://www.newline.co/fullstack-d3#packages
+* streamlit nginx config: https://medium.com/featurepreneur/streamlit-with-nginx-bde7a9a41e6c
 
 ## websites
 
