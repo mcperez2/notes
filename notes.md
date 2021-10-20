@@ -30,3 +30,4 @@
 * MiDAS tutorial: https://www.youtube.com/watch?v=a_7GRsR4o_I
 * MiDAS reference: https://twitter.com/dmvrg/status/1408659572747685896
 * MiDAS package: https://pytorch.org/hub/intelisl_midas_v2/
+* redraw website to create portrait from ML art: https://redraw.ai/index.html
