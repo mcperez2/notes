@@ -19,6 +19,7 @@
 ## websites
 
 * data driven war technology: https://www.palantir.com/palantir-gotham/21-launch/#
+* server of servers: https://caddyserver.com/docs/
 
 ## art
 
