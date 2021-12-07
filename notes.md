@@ -28,10 +28,13 @@
 * python widgets 2: https://voila-gallery.org/
 * python package to stl: https://github.com/asahidari/surf2stl-python
 * python script to harmonograph: https://prettymathpics.com/multi-pendulum-harmonograph-simulator-using-numpy-and-matplotlib/
+* https://github.com/tuxar-uk/Harmonumpyplot
 * MiDAS tutorial: https://www.youtube.com/watch?v=a_7GRsR4o_I
 * MiDAS reference: https://twitter.com/dmvrg/status/1408659572747685896
 * MiDAS package: https://pytorch.org/hub/intelisl_midas_v2/
 * redraw website to create portrait from ML art: https://redraw.ai/index.html
+* https://jarriagadat.medium.com/netflix-documentaries-abstract-the-art-of-design-neri-oxman-bio-architecture-7e0553e9769f
+* https://towardsdatascience.com/5-step-guide-to-generate-3d-meshes-from-point-clouds-with-python-36bad397d8ba
 
 ## science (may be useful)
 * https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.180604?utm_source=email&utm_medium=email&utm_campaign=prl-alert
