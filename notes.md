@@ -32,3 +32,10 @@
 * MiDAS reference: https://twitter.com/dmvrg/status/1408659572747685896
 * MiDAS package: https://pytorch.org/hub/intelisl_midas_v2/
 * redraw website to create portrait from ML art: https://redraw.ai/index.html
+
+## science (may be useful)
+* https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.180604?utm_source=email&utm_medium=email&utm_campaign=prl-alert
+* https://www.netket.org/
+* https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.158303
+* https://www.nature.com/articles/s41597-020-00682-0?utm_source=sdata_etoc&utm_medium=email&utm_campaign=toc_41597_7_1&utm_content=20201117&WT.ec_id=SDATA-202011&sap-outbound-id=514FB78860398FF904FB456DFAC67A411E68DF81
+* 
