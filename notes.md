@@ -41,4 +41,4 @@
 * https://www.netket.org/
 * https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.158303
 * https://www.nature.com/articles/s41597-020-00682-0?utm_source=sdata_etoc&utm_medium=email&utm_campaign=toc_41597_7_1&utm_content=20201117&WT.ec_id=SDATA-202011&sap-outbound-id=514FB78860398FF904FB456DFAC67A411E68DF81
-* 
+* checklist to ML publications: https://neurips.cc/Conferences/2021/PaperInformation/PaperChecklist
